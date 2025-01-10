@@ -1,5 +1,4 @@
-Here's an adapted version of your text formatted as a `README.md`:
-
+Sunrise node setup
 ```markdown
 # Setting Up and Running the Node
 
